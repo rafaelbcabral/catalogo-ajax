@@ -77,6 +77,13 @@ function getMovies(url) {
   
     return card;
   }
+
+  function calcularMedia(numeros) {
+    if (numeros.length === 0) return 0;
+    
+    const soma = numeros.reduce((total, num) => total + num, 0);
+    return soma / numeros.length;
+}
   
   function main() {
     let data = getMovies(
