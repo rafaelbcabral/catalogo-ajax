@@ -1,7 +1,7 @@
 <h1 align="center">
 <p ><b>Catálogo <b style="text-decoration: none; color: red">AJAX</b> 🎬🍿<b></p>
 
-<img src="img.jpg" align="center">
+<img src="img.jpg">
 <br>
 </h1>
 
