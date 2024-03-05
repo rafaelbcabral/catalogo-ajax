@@ -13,7 +13,7 @@
 
 ## 📚 Sobre
 
-#### Este site é um catálogo de filmes e séries desenvolvido utilizando **HTML, CSS, JavaScript** e a técnica **Ajax** para fornecer uma experiência interativa aos usuários. A estrutura HTML define a organização dos elementos na página, enquanto o CSS estiliza o layout, definindo cores, fontes e espaçamentos. O JavaScript é utilizado para fazer requisições assíncronas ao servidor e manipular os dados recebidos, permitindo a exibição dinâmica das informações sobre os filmes e séries. Além disso, o site faz uso de bibliotecas como **jQuery e Bootstrap** para facilitar o desenvolvimento e adicionar funcionalidades extras, como **manipulação do DOM** e estilização de componentes, contribuindo para uma interface atraente e uma experiência de usuário mais completa.
+#### Este site é um catálogo de filmes e séries responsivo desenvolvido utilizando **HTML, CSS, JavaScript** e a técnica **Ajax** para fornecer uma experiência interativa aos usuários. A estrutura HTML define a organização dos elementos na página, enquanto o CSS estiliza o layout, definindo cores, fontes e espaçamentos. O JavaScript é utilizado para fazer requisições assíncronas ao servidor e manipular os dados recebidos, permitindo a exibição dinâmica das informações sobre os filmes e séries. Além disso, o site faz uso de bibliotecas como **jQuery e Bootstrap** para facilitar o desenvolvimento e adicionar funcionalidades extras, como **manipulação do DOM** e estilização de componentes, contribuindo para uma interface atraente e uma experiência de usuário mais completa.
 
 
 ## 🔨 Ferramentas
