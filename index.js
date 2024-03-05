@@ -84,6 +84,25 @@ function getMovies(url) {
     const soma = numeros.reduce((total, num) => total + num, 0);
     return soma / numeros.length;
 }
+
+function calculadora(operacao, num1, num2) {
+  switch (operacao) {
+      case 'adicao':
+          return num1 + num2;
+      case 'subtracao':
+          return num1 - num2;
+      case 'multiplicacao':
+          return num1 * num2;
+      case 'divisao':
+          if (num2 !== 0) {
+              return num1 / num2;
+          } else {
+              return 'Erro: divisão por zero';
+          }
+      default:
+          return 'Operação inválida';
+  }
+}
   
   function main() {
     let data = getMovies(
