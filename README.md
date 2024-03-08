@@ -7,7 +7,7 @@
 
 
 <a href="https://catalogo-ajax.netlify.app/" style="text-decoration: none; color: #8b0000">
-<h2 style="text-align: center; margin: 0;">🛩️ Para explorar o site, clique aqui!</h2>
+🛩️ Para explorar o site, clique aqui!</h2>
 </a>
 
 
